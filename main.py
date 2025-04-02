@@ -1,7 +1,10 @@
 import xmlrpc.client
 import os
+from dotenv import load_dotenv
 import requests
 from google.cloud import storage
+
+load_dotenv()
 
 # Odoo connection setup
 url = 'http://localhost:8010'
@@ -24,7 +27,7 @@ report_pdf_urls = models.execute_kw(
 
 def get_gcs_bucket():
     """Get GCS bucket object and name."""
-    bucket_name = "sim-gems-document-storage-stage"
+    bucket_name = os.getenv("GCP_BUCKET_NAME")
     credentials_path = os.getenv('GCS_CREDENTIALS_PATH',
                                  '/home/adi/Desktop/jenkins/static/data/sim-gems-videos-e8e3607d0460.json')
 
