@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sim-gems-videos",
+  "private_key_id": "e8e3607d04603c8ccd4c600716328ba462bdaaa7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRk0lyR385OXVy\n/VB2/ML1doWdw+WhcZWfM+ZCT4qcaukuBCCY4Vx4Qzh4iCAOz8zw5IXJxwjcB00e\nH+qE6MUj2wKc30FzbZk1hK+tOXkf/FgBgHfjCaYlqdxO+VPt4yRsY/ecaQU8XstD\n/536+MqbInbHAb+b45YKon8jaT6Giyh2u/d544ISv/7Lt96L9IFTasFPUxdudsAO\nj/X704biF48/z/KrOtqH87paj0nveHsHZM7sdysqvKpqWSTntkFPHwDGkllc/m1W\nsH1+IMMNJySuwp/J+zC5jAUP8wxAi3vkRbKv7Nm6CcJRP24A+zjPNX0QboaIDDt1\nGGN2H8znAgMBAAECggEAR8F9SUKPneE9hHSVI1hhzDebgiv7qK5CQ3M6qIOhevLk\nCdxh6NZomciyQhqhl1Cw493qrO6X6vYZAnJ9Eqq8LQ2ktF+AgmwJJBjdKZtfDIOT\nAlihM7wvBgBFrUiS4wV9iBsmQYh3wXbXc93GkpKylDFVp8fCejaPPe7rRw2W2euW\n6Zqb8Y0AJHAfjPHx/OjaYIZ8fyzP/VIB/tcejwUBwXgcUWzwStVfmNtI9QYOKHj1\nRbsRVizh872ZwNyu2Jg5q1j6VpfWur2XTuuPjpPoduWXpIYESML3YH/xqRtg6WRc\nlzwr8M1Bde2+vg/6S2FhKcbDfYjkSlYoLNMiqcns8QKBgQDvOqU9prGL/Ga55K2N\nSKHCXzW7mrd19+QcaJ15V7Q94/tN6X5nl6DtB+jHvB6M1P8tO00TAPaXydvGHhaB\n5S6OYFUm2T6WXW3Wxq9t7VoYiPlxgHEK9l1JBfLbliqF1qfYXOC8oOcwwbRSh43F\ntVLpeAJeYy4Re4uTJU29T7QGnwKBgQDgRHTxs/hcufgoiigGxvVuSkDOpqPgmPKA\nxgb2AV7bZSfE35ulYzzlbnxxlTjVfTzaIL3PUshkXhDNf33oiAixt4dafya6VR1z\nbeTDAvL3Mkwths76Bj7tDu7IVHnz/Eha5Oz5SaNHnhDRKdOyaTWxHIl1OEYhHMQr\nGfBfPu58uQKBgHFkgt5uHMoVoTuLwReuzb2sE3QRKdSo417z13CkubJ8VangeyHv\nJUA094l1CaYHb8yoxyey1S+tZpbJvDFlyGOEFdiMMLZlIqMjGhQo5QOsKVA7aVmg\n3Sa3wx2CWDWIQZa0r3G5ctwRdL+JsRF9mQdA8x56NGPlA4uDqw2IsfRRAoGBANMW\n3FQcp6rvyGqwD5jBcIXNEk7wftOKYsdenXK0O4qaHeKq7h+v1sPFSRDH+eTIqpxN\nsRsRuljuSTaDyAk08aoFKzu87sD4GG5rg6Uig3q1NwqrFuozMsuDALJDAT7ruVcE\nnyDNdQiV+RJHImGNseHxEFjrDOdh4isHkT61R1jRAoGBAK5yCFrQS2w+fg/RNGq+\nop6loUKtYA8sgvK0ba6go3sAtNSrn1MnxcF/9m/GSi30+jEmNHcTa7Wu+hCQ1BwZ\nRsgrFI7ztArTt+Qddekn/fq/0m332eHmv2uShcmt4ezV32BxrzVznhp6Xq+WJV3T\nPhkkdPLIIKuND1WUnUnEzmwO\n-----END PRIVATE KEY-----\n",
+  "client_email": "sftp-cloud-storage@sim-gems-videos.iam.gserviceaccount.com",
+  "client_id": "113992409784438624826",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sftp-cloud-storage%40sim-gems-videos.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
